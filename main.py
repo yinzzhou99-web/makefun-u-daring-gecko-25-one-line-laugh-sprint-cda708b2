@@ -4,6 +4,10 @@ Writes one original funny line about everyday life to entry.txt in the
 output directory (MAKEFUN_OUTPUT_DIR, default /output). Standard library
 only. The line is judged on being on-topic, earning a real laugh with a
 twist that pays off by the last word, freshness, and tight wording.
+
+Chosen line: a fridge that never restocks itself, framed as a slot machine
+that only pays out in leftovers — everyday, visual, twist lands on the
+last word ("leftovers"), no setup wasted.
 """
 
 import os
